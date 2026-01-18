@@ -1,0 +1,7 @@
+{
+  "name": "Tetra-Phobia: The Void",
+  "description": "A haunting Tetris-style puzzle game where a malevolent AI watches your every move. Clear lines to survive, but beware: the more you succeed, the more the reality of the game glitches and decays.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
